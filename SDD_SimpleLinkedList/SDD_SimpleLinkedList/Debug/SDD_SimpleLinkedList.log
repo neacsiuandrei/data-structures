@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\neacsiu\source\repos\sdd_single linked list\sdd_single linked list\source.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\neacsiu\source\repos\sdd_single linked list\sdd_single linked list\source.cpp(87): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\neacsiu\source\repos\sdd_single linked list\sdd_single linked list\source.cpp(85): warning C4715: 'deleteNode': not all control paths return a value
+  SDD_Single Linked List.vcxproj -> C:\Users\Neacsiu\source\repos\SDD_Single Linked List\Debug\SDD_Simple Linked List.exe
